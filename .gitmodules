@@ -19,3 +19,18 @@
 [submodule "cookbooks/build-essential"]
 	path = cookbooks/build-essential
 	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "cookbooks/git"]
+	path = cookbooks/git
+	url = https://github.com/opscode-cookbooks/git.git
+[submodule "cookbooks/sqlite"]
+	path = cookbooks/sqlite
+	url = https://github.com/opscode-cookbooks/sqlite.git
+[submodule "cookbooks/postgresql"]
+	path = cookbooks/postgresql
+	url = https://github.com/opscode-cookbooks/postgresql.git
+[submodule "cookbooks/ruby_build"]
+	path = cookbooks/ruby_build
+	url = https://github.com/fnichol/chef-ruby_build.git
+[submodule "cookbooks/rbenv"]
+	path = cookbooks/rbenv
+	url = https://github.com/fnichol/chef-rbenv.git
