@@ -5,6 +5,8 @@ name "rails"
 run_list(
   "recipe[apt]",
   "recipe[git]",
+  "recipe[tmux]",
+  "recipe[vim]",
   "recipe[sqlite]",
   "recipe[openssl]",
   "recipe[mysql::client]",
